@@ -77,7 +77,7 @@ User → Authentication → EC2 (Apache + PHP) → RDS (MySQL Database)
 ![Form](screenshots/form.png)
 
 ###  Dashboard
-![Dashboard](screenshots/view.png)
+![Dashboard](screenshots/table.png)
 
 ###  Edit Page
 ![Edit](screenshots/edit.png)
